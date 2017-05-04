@@ -1,8 +1,8 @@
-#Latina-Dev
+# Latina-Dev
 
 Women held 57% of all professional occupations, yet they held only 25% of all computing occupations. And the numbers are even lower when considering women from a different ethnicity; Latinas hold only 1% and of these jobs.
 
-##Mision
+## Mision
 
 Our mission is to empower more Latina Women to learn programming, so the gender and ethnicity gap can be dramatically reduced. 
 
